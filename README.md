@@ -5,13 +5,13 @@ I like to take things apart to understand how they work, build new solutions, an
 Outside of tech, I’m into cooking, running & swimming 🏃‍♂️🏊‍♂️.  
 
 #### 🚀 Short story about me  
-* 🇮🇹 Born in the island of Sardinia  
-* 🎓 **BSc in Computer Science** – University of Cagliari  
-* 💻 **Full Stack Developer** at Accenture (Java + Spring Boot, DBs, cloud)  
-* 🎓 **MSc in Artificial Intelligence** – University of Bologna  
-* 🤖 **AI Engineer Intern** at Toyota Motor Europe, Brussels 🇧🇪 (optimization, data science, sustainability)  
+* 🏝️ Born in the island of Sardinia  
+* 🎓 **BSc in Computer Science** – University of Cagliari 🇮🇹
+* 💻 **Full Stack Developer** at Accenture
+* 🎓 **MSc in Artificial Intelligence** – University of Bologna 🇮🇹
+* 🤖 **AI Engineer Intern** at Toyota Motor Europe, Brussels 🇧🇪 
 
-#### 💡 What I like to explore  
+#### 💡 Topics I like to explore  
 * Artificial Intelligence & Deep Learning  
 * Computer Science & Engineering  
 * Optimization & Smart Systems  
