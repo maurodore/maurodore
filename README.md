@@ -1,5 +1,3 @@
-### 💫 About Me:
-
 #### 👋 Hi, I’m Mauro  
 I like to take things apart to understand how they work, build new solutions, and fix what’s broken.  
 Outside of tech, I’m into cooking, running & swimming 🏃‍♂️🏊‍♂️.  
