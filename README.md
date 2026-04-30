@@ -12,7 +12,7 @@ Outside of tech, I’m into cooking, running & swimming 🏃‍♂️🏊‍♂�
 
 #### 💡 Topics I like to explore  
 * Artificial Intelligence & Deep Learning  
-* Computer Science & Engineering  
+* Security  
 * Optimization & Smart Systems  
 * Space and Aviation ✈️🚀  
 
