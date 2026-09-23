@@ -8,7 +8,7 @@ Outside of tech, I’m into cooking, running & swimming 🏃‍♂️🏊‍♂�
 * 💻 **Full Stack Developer** at Accenture
 * 🎓 **MSc in Artificial Intelligence** – University of Bologna 🇮🇹
 * 🏎️ **AI Engineer Intern** at Toyota Motor Europe, Brussels 🇧🇪
-* 🤖 **AI Engineer Intern** at HikmaAI
+* 🤖 **AI Security Engineer Intern** at HikmaAI
 
 #### 💡 Topics I like to explore  
 * Artificial Intelligence & Deep Learning  
